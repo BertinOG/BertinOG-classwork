@@ -3,7 +3,7 @@ from Player import *
 
 pygame.init()
 
-gameDisplay = pygame.display.set_mode((900, 500))
+gameDisplay = pygame.display.set_mode((900, 700))
 
 pygame.display.set_caption("Snakes and Ladders")
 

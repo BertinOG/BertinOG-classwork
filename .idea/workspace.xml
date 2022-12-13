@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="143e8bb7-1b87-4887-b5df-937ebaa06b92" name="Changes" comment="Sort Algorithm">
-      <change afterPath="$PROJECT_DIR$/Christmas Advent Code/Day 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Christmas Advent Code/Day 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Christmas Advent Code/Day1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Christmas Advent Code/Day2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pygame Temp/Snakes and Ladders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pygame Temp/Test.py" afterDir="false" />
+    <list default="true" id="143e8bb7-1b87-4887-b5df-937ebaa06b92" name="Changes" comment="Python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Christmas Advent Code/Day 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Christmas Advent Code/Day 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame Temp/SL/Snakes_and_Ladders.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pygame Temp/SL/Snakes_and_Ladders.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670327649929</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Python">
+      <created>1670847349407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670847349407</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sort Algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sort Algorithm" />
+    <MESSAGE value="Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python" />
   </component>
 </project>
